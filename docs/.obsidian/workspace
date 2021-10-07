@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "840869a823deb0f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b750c80eb4cffab",
+        "type": "leaf",
+        "dimension": 43.18181818181818,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "70963a6b45c83ee7",
+        "type": "leaf",
+        "dimension": 56.81818181818182,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "158c36ea3440afe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "012bad4068456023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53859a7ace745aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a564a1b9b215a007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46057d33218a3b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "102da94143336d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db9e9712a81008e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "70963a6b45c83ee7",
+  "lastOpenFiles": [
+    "Requirements Engineering/3 Ermittlungsmethoden.md",
+    "Requirements Engineering/1 Basics.md",
+    "Untitled.md",
+    "Requirements Engineering/2 Agile Communication.md"
+  ]
+}
