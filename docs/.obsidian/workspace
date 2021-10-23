@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5b750c80eb4cffab",
-        "type": "leaf",
-        "dimension": 43.18181818181818,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "70963a6b45c83ee7",
         "type": "leaf",
-        "dimension": 56.81818181818182,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
-            "mode": "preview"
+            "file": "Quick notes.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements Engineering/3 Ermittlungsmethoden.md",
+                "file": "Quick notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +88,10 @@
   },
   "active": "70963a6b45c83ee7",
   "lastOpenFiles": [
+    "Quick notes.md",
     "Requirements Engineering/3 Ermittlungsmethoden.md",
+    "Requirements Engineering/2 Agile Communication.md",
     "Requirements Engineering/1 Basics.md",
-    "Untitled.md",
-    "Requirements Engineering/2 Agile Communication.md"
+    "Untitled.md"
   ]
 }
